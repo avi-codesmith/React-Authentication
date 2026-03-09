@@ -1,12 +1,1 @@
-{
-  "events": [
-    {
-      "title": "A new event",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/M%C3%BCnchen_Panorama.JPG/1024px-M%C3%BCnchen_Panorama.JPG",
-      "date": "2022-10-01",
-      "description": "Some awesome event!",
-      "id": "2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"
-    }
-  ],
-  "users": []
-}
+{"events":[{"title":"This is an Event with top secret","image":"https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg","date":"2026-03-21","description":"Hitler gone! Jews won! but Albert Einstein had fled to USA (top secret)","id":"4b517043-cdba-42f8-85e3-2d1313118c4f"}],"users":[{"email":"aviox@gmail.com","password":"$2a$12$fee3EUiDIHbqWFxM3ZtHd.7MDuL4TcUzSQTUeSo4rRDUWxfHn9Lam","id":"0d17173f-82c4-41aa-acd0-6407e01c98b6"},{"email":"kamal@gmail.com","password":"$2a$12$u4zILN4l8o8S0seeiSy5Su118ZBKwDLjvUXhqe4bp3ajRktuM/fsC","id":"8f292bcb-0266-4faf-af81-13077880be32"},{"email":"karan@gmail.com","password":"$2a$12$pLBqBUpqaLRmKs4PrkU9ueNTCjUaEN80aq5eIAl14fXjm0Hr9wqHy","id":"a2331bcb-6dbd-4849-9d88-8bb071131082"},{"email":"k@gmail.com","password":"$2a$12$5VlNPe3tQCghj2gYFY4SteSqAZDu8nhVzxWl1Lz1d4P1.wL4ZoPDW","id":"4c9932a8-6df1-4032-91ce-94b7cfd196d8"},{"email":"kxxxxxxx@gmail.com","password":"$2a$12$TVjBwPIblKBE/FXItx54Buy5rwv7r49Nj2Yj1sQSO/MuJpvJt29EW","id":"270d23bd-7dee-48e5-9875-159bd08f7520"},{"email":"eeith@gmail.com","password":"$2a$12$GJelTyrttdTuMDLoDbrylOzgAXRp3Zs5t52odQEvOj9hsNy4/wyKy","id":"d40f246b-6de4-4b93-8607-87c555bfaf7b"},{"email":"kalu@gmail.com","password":"$2a$12$klOQCLW9phqPpT1soAob1OGz1qCvgTNlypLrWyVV7FSe3HwQ57qIe","id":"d97c3f9c-2472-4e4c-b943-66067940ca5f"},{"email":"s@gamial.com","password":"$2a$12$IeBqMIkuFidifoqhLHWFA.gDiBXypbACN/jRi30zQHjSccICLvvZW","id":"646dd575-ee57-4b5a-b698-61effcfa521e"},{"email":"emailk@gmail.com","password":"$2a$12$cYep3bURq/IqwTtxdBNYw.SiVslbZyK7yB9oXxdM.qOB1vxwU8b2K","id":"2a78f2fb-2614-48c0-ab13-2def3b74ea76"},{"email":"kali@gmail.com","password":"$2a$12$IXiHpmF3pTnWwMOiyo/OP.I1Z2mYySOmMH8m7riVZGgXh8XKljC8y","id":"31a46390-b6bd-4dd9-9d26-b42c48bfbb7d"},{"email":"A@gmail.com","password":"$2a$12$gui2Ni2STBA6o4/Hrioen.u38uIfIRuCBR2imR4yRWMCM0WQF1mtG","id":"f1ca46fa-117f-425b-8b9b-d287c4afbaa2"},{"email":"a@a.com","password":"$2a$12$CV62/1woFyzT5Z3WO/KqEOMu7TyUajiR0huov1d1dtEwIOc3UkKyy","id":"5329a68f-3434-450b-8c3a-3f3602dbf87b"},{"email":"s@gamialww.com","password":"$2a$12$noYDZUVtcTN82.FTMdPXxe5Qhf6bA5Y5aQEK18NfkrhUnX8IIKs1W","id":"5ffb6d89-990f-4508-85e4-db90f229ab6f"}]}
